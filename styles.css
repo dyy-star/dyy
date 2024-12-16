@@ -1,0 +1,15 @@
+canvas {
+    border: 1px solid #000;
+    background-color: #f0f0f0;
+  } 
+
+  #scoreBoard {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  #restartButton {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+  }
